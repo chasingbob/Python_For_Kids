@@ -7,4 +7,4 @@
 3. Selection [algorithms_selection.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/algorithms_selection.py)
 4. Repitition [algorithms_repitition.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/algorithms_repitition.py)
 
-Most algorithms will use a combination of the four principles. [algorithms_combination.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/algorithms_combination.py)
+Most algorithms will use a combination of the four principles. [algorithms_combination.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/algorithms_combined.py)
