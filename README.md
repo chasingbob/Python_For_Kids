@@ -10,7 +10,7 @@
 Most algorithms will use a combination of the four principles. [algorithms_combination.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/algorithms_combined.py)
 
 ### Examples
-1. IGCSE Pre-Release material 
+IGCSE Pre-Release material: 
 * [task1.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/task1.py) 
 * [task2.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/task2.py) 
 * [task3.py] (https://github.com/chasingbob/Python_For_Kids/blob/master/task3.py) 
