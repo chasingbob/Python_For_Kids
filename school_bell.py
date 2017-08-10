@@ -9,7 +9,6 @@ print(classes)
 
 
 while True:
-    for daw in ['Monday', 'Tuesday']
     for time_slot in range(24):
         print(time_slot)
         for time_slot_start, time_slot_end, class_name in classes:
