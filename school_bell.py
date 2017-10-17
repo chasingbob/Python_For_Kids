@@ -1,3 +1,8 @@
+'''
+Main program managing school bell project.
+
+'''
+
 import time
 from notifier import Notifier
 
